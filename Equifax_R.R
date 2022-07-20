@@ -5,12 +5,12 @@ hist(x)
 
 ##########
 
-install.packages("gitcreads")
+#install.packages("gitcreads")
 
-install.packages("gitcreds")
-library(gitcreds)
-gitcreds_set()
-gitcreds_get()
+#install.packages("gitcreds")
+#library(gitcreds)
+#gitcreds_set()
+#gitcreds_get()
 
 
 
